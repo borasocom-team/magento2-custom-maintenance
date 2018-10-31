@@ -2,6 +2,7 @@
     "name": "creatuity/magento2-custom-maintenance",
     "description": "Creatuity Custom Maintenance for Magento 2",
     "type": "magento2-component",
+    "version": "1.0.3",
     "authors": [
         {
             "name": "Creatuity Corp",
@@ -10,7 +11,8 @@
     ],
     "require": {
         "php": "~5.5.0|>=5.6.0",
-        "magento/magento-composer-installer": "*"        
+        "magento/magento-composer-installer": "*",
+        "creatuity/magento2-custom-maintenance-errors": ">=1.0.0"
     },
     "autoload": {
         "files": [
