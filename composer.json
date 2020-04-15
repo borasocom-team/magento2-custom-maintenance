@@ -2,7 +2,7 @@
     "name": "creatuity/magento2-custom-maintenance",
     "description": "Creatuity Custom Maintenance for Magento 2",
     "type": "magento2-component",
-    "version": "1.0.3",
+    "version": "1.0.3.1",
     "authors": [
         {
             "name": "Creatuity Corp",
